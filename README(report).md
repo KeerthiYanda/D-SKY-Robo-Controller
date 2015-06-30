@@ -4,7 +4,7 @@ v1
 D-SKY-Robo-Controller
 -------------------------
 
-We have developed an android app where any user can control the robot(romo) motions. The user can control it using the text commands or speech commands.
+We have developed an android app using which any user can control the robot(romo) motions. The user can control it using the text commands or speech commands.
 
 How it is used in our project:
 -------------------------------
